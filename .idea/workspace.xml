@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1e1d56e-9470-4218-b0f2-73b6705e71f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WMU44QPntiiKdBQ8yIV6wMzYtn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="ReplState" timestamp="1579006353776">{:repl-history {:ide [], :local [], :remote []}}</component>
+  <component name="RunManager">
+    <configuration name="REPL for brave-and-truth" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="brave-and-truth" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="false" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Clojure REPL.REPL for brave-and-truth" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1e1d56e-9470-4218-b0f2-73b6705e71f8" name="Default Changelist" comment="" />
+      <created>1578958762829</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578958762829</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2838" y="345" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578962615620">
+      <screen x="1440" y="23" width="2560" height="1057" />
+    </state>
+    <state x="2838" y="345" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/1440.23.2560.1057@1440.23.2560.1057" timestamp="1578962615620" />
+  </component>
+</project>
